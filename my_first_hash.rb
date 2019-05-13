@@ -1,9 +1,8 @@
 def my_hash
-  hulk = {"occupation" => "doctor", "body_type" => "muscular", "color" => "green"}
+  the_hulk = {"occupation" => "doctor", "body_type" => "muscular", "color" => "green"}
 end
 
 
-end
 
 
 def shipping_manifest
