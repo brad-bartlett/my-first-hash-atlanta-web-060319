@@ -1,5 +1,5 @@
 def my_hash
-  the_hulk = {"occupation" => "doctor", "body_type" => "muscular", "color" => "green"}
+  hulk = {"occupation" => "doctor", "body_type" => "muscular", "color" => "green"}
 end
 
 
